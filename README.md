@@ -22,7 +22,7 @@ COVID-19 data provided by Johns Hopkins University.
 3. Run the application
 
 ## 📸 Preview
-(Add a screenshot of your app here)
+<img width="1918" height="1012" alt="app1" src="https://github.com/user-attachments/assets/3757612b-6a96-4538-b661-f8ad5a473813" />
 
 ## 👨‍💻 Author
 Lenos Charalambous
